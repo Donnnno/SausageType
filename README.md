@@ -1,2 +1,3 @@
 # SausageType
-SausageType Display
+
+The perfect typeface for butchers.
